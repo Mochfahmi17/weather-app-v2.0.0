@@ -1,8 +1,20 @@
-# React + Vite
+# Review
+![porto8](https://github.com/user-attachments/assets/8844580b-a39b-4e3c-bbbc-2d156d695216)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi, Selamat datang 😊 ini adalah aplikasi weather saya yang ke-2 dengan tampilan yang fresh dan menampilkan informasi detail.
+Weather App adalah aplikasi cuaca online yang memberikan informasi cuaca terkini dan akurat di seluruh dunia. Dapatkan ramalan cuaca harian, bulanan, dan bahkan jam-jaman dengan tampilan yang intuitif dan mudah digunakan.
 
-Currently, two official plugins are available:
+# fitur
+- Menampilkan icon cuaca yang lebih baru dan lengkap.
+- Menampilkan pencarian.
+- Menampilkan berdasarkan kota besar yang ada di indonesia.
+- Menampilkan tanggal dan waktu.
+- Menampilkan search bar agar user bisa mencari cuaca saat ini berdasarkan input dari user.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  Rasakan kenyamanan merencanakan hari Anda dengan informasi cuaca yang akurat dan terkini. Kunjungi website tersebut dan rasakan tampilan nuansa yang memanjakan mata anda! 😊
+
+  Terimakasih sudah berkunjung!
+
+
+
+  # happycoding
